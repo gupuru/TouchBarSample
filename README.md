@@ -4,6 +4,10 @@ It is a piano application using Touch Bar.
 
 I made it as a sample application of Touch Bar.
 
+# Screenshot
+
+![screenshot](https://www.dropbox.com/s/38ypg90kz92okuf/cafe.jpg)
+
 
 # Piano sound
 
