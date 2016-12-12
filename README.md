@@ -6,7 +6,7 @@ I made it as a sample application of Touch Bar.
 
 # Screenshot
 
-![screenshot](https://www.dropbox.com/s/38ypg90kz92okuf/cafe.jpg)
+![screenshot](https://pbs.twimg.com/media/CycQdOWVQAAK1N3.jpg)
 
 
 # Piano sound
